@@ -3,12 +3,12 @@
     "name": "test",
     "title": "Test",
     "description": "Модуль Test",
-    "releases": "https://api.github.com/repos/developer380tigris/PS-Modules-one-test/zipball/module_onetest_1.0"
+    "releases": "https://api.github.com/repos/developer380tigris/PS-Modules-one-test/releases/latest"
   },
   {
     "name": "test2",
     "title": "Test2",
     "description": "Модуль Test2",
-    "releases": "https://api.github.com/repos/developer380tigris/PS-Modules-one-test/zipball/module_onetest_1.0"
+    "releases": "https://api.github.com/repos/developer380tigris/PS-Modules-one-test/releases/latest"
   }
 ]
