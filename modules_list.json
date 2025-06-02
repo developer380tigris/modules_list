@@ -3,14 +3,12 @@
     "name": "test",
     "title": "Test",
     "description": "Модуль Test",
-    "version": "1.0",
-    "zip": "https://github.com/developer380tigris/PS-Modules-one-test/modules/test.zip"
+    "releases": "https://github.com/developer380tigris/PS-Modules-one-test/releases"
   },
   {
     "name": "test2",
     "title": "Test2",
     "description": "Модуль Test2",
-    "version": "1.0",
-    "zip": "https://github.com/developer380tigris/PS-Modules-one-test/modules/test2.zip"
+    "releases": "https://github.com/developer380tigris/PS-Modules-one-test/releases"
   }
 ]
